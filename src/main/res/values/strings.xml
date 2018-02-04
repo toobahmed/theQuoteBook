@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TheQuoteBook</string>
+    <string name="browse">Browse</string>
+    <string name="refresh">Refresh</string>
+
+</resources>
